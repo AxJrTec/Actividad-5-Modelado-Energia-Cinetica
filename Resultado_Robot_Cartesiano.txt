@@ -1,0 +1,49 @@
+Velocidad lineal eslabón 1
+/    0   \
+|        |
+|    0   |
+|        |
+\ l1p(t) /
+
+Velocidad angular eslabón 1
+/ 0 \
+|   |
+| 0 |
+|   |
+\ 0 /
+
+Velocidad lineal eslabón 2
+/    0    \
+|         |
+| -l2p(t) |
+|         |
+\  l1p(t) /
+
+Velocidad angular eslabón 2
+/ 0 \
+|   |
+| 0 |
+|   |
+\ 0 /
+
+Velocidad lineal eslabón 3
+/  l3p(t) \
+|         |
+| -l2p(t) |
+|         |
+\  l1p(t) /
+
+Velocidad angular eslabón 3
+/ 0 \
+|   |
+| 0 |
+|   |
+\ 0 /
+
+Energía Cinética Total
+__          2           2           2            2 __   __          2           2
+m3 (|l1p(t)|  + |l2p(t)|  + |l3p(t)| )   |l1p(t)|  m1   m2 (|l1p(t)|  + |l2p(t)| )
+-------------------------------------- + ------------ + --------------------------
+                   2                           2                     2
+
+>> 
